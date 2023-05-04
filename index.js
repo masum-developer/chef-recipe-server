@@ -8,7 +8,7 @@ const chefs = require('./data/chefs.json')
 
 
 app.get('/',(req,res)=>{
-    res.send('Chef corners is running')
+    res.send('Chef corners server is running')
 })
 app.get('/chefs',(req,res)=>{
     res.send(chefs)
