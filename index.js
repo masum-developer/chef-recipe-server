@@ -19,8 +19,6 @@ app.get('/chefs/:id',(req,res)=>{
     res.send(chefDetails)
 })
 
-
-
 app.listen(port,()=>{
     console.log(`Chef corners app is running on port: ${port}`)
 })
