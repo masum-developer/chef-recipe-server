@@ -8,24 +8,23 @@
         "likes": 1000,
         "biography": "Alice Smith is a classically trained chef who has worked in some of the world's finest restaurants. She is known for her elegant and innovative approach to French cuisine.",
         "recipes": [
-            {
+            {   "id":"1",
                 "recipe_name": "Seared Scallops with Citrus Beurre Blanc",
+                "recipe_image":"https://i.ibb.co/cgr6SPB/pepperoni.jpg",
                 "ingredients": [
                     "6 large scallops",
                     "1/4 cup flour",
                     "2 tablespoons olive oil",
                     "2 tablespoons unsalted butter",
-                    "1/4 cup dry white wine",
-                    "1/4 cup fresh orange juice",
-                    "1 tablespoon honey",
                     "2 tablespoons cold unsalted butter",
                     "1 teaspoon chopped fresh parsley"
                 ],
-                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Add white wine, orange juice, and honey to skillet and bring to a boil. \n7. Cook until liquid is reduced by half, about 3-4 minutes. \n8. Remove skillet from heat and whisk in 2 tablespoons cold butter. \n9. Season sauce with salt and pepper to taste. \n10. Arrange scallops on plates and spoon sauce over. \n11. Garnish with chopped parsley and serve immediately.",
+                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Arrange scallops on plates and spoon sauce over. \n7. Garnish with chopped parsley and serve immediately.",
                 "rating": 4.5
             },
-            {
+            {   "id":"2",
                 "recipe_name": "Beef Bourguignon",
+                "recipe_image":"https://i.ibb.co/8DDFb7y/beef.jpg",
                 "ingredients": [
                     "2 pounds beef chuck, cut into 1 1/2-inch pieces",
                     "1/4 cup all-purpose flour",
@@ -33,19 +32,14 @@
                     "6 slices bacon, chopped",
                     "1 large onion, chopped",
                     "2 medium carrots, chopped",
-                    "2 cloves garlic, minced",
-                    "1 cup red wine",
-                    "2 cups beef broth",
-                    "2 tablespoons tomato paste",
-                    "1 teaspoon dried thyme",
-                    "1 bay leaf",
                     "1/4 cup chopped fresh parsley"
                 ],
-                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Add the cheddar cheese to the sauce and stir until melted and smooth. Remove from heat and stir in the parmesan cheese. \n5. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
+                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
                 "rating":4.0
             },
-            {
+            {   "id":"3",
                 "recipe_name": "Homemade Macaroni and Cheese",
+                "recipe_image":"https://i.ibb.co/N3Pd9gR/macaroni.jpg",
                 "ingredients": [
                     "1 lb elbow macaroni",
                     "4 tbsp unsalted butter",
@@ -53,7 +47,7 @@
                     "2 cups whole milk",
                     "2 cups shredded cheddar cheese"
                 ],
-                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Add red wine and bring to a boil. \n9. Add beef broth, tomato paste, thyme, and bay leaf and bring to a simmer. \n10. Return beef to Dutch oven and bring to a boil. \n11. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
+                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
                 "rating":4.0
             }
         ]
@@ -67,24 +61,23 @@
         "likes": 500,
         "biography": "Alice Smith is a classically trained chef who has worked in some of the world's finest restaurants. She is known for her elegant and innovative approach to French cuisine.",
         "recipes": [
-            {
+            {   "id":"1",
                 "recipe_name": "Seared Scallops with Citrus Beurre Blanc",
+                "recipe_image":"https://i.ibb.co/cgr6SPB/pepperoni.jpg",
                 "ingredients": [
                     "6 large scallops",
                     "1/4 cup flour",
                     "2 tablespoons olive oil",
                     "2 tablespoons unsalted butter",
-                    "1/4 cup dry white wine",
-                    "1/4 cup fresh orange juice",
-                    "1 tablespoon honey",
                     "2 tablespoons cold unsalted butter",
                     "1 teaspoon chopped fresh parsley"
                 ],
-                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Add white wine, orange juice, and honey to skillet and bring to a boil. \n7. Cook until liquid is reduced by half, about 3-4 minutes. \n8. Remove skillet from heat and whisk in 2 tablespoons cold butter. \n9. Season sauce with salt and pepper to taste. \n10. Arrange scallops on plates and spoon sauce over. \n11. Garnish with chopped parsley and serve immediately.",
+                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Arrange scallops on plates and spoon sauce over. \n7. Garnish with chopped parsley and serve immediately.",
                 "rating": 4.5
             },
-            {
+            {   "id":"2",
                 "recipe_name": "Beef Bourguignon",
+                "recipe_image":"https://i.ibb.co/8DDFb7y/beef.jpg",
                 "ingredients": [
                     "2 pounds beef chuck, cut into 1 1/2-inch pieces",
                     "1/4 cup all-purpose flour",
@@ -92,19 +85,14 @@
                     "6 slices bacon, chopped",
                     "1 large onion, chopped",
                     "2 medium carrots, chopped",
-                    "2 cloves garlic, minced",
-                    "1 cup red wine",
-                    "2 cups beef broth",
-                    "2 tablespoons tomato paste",
-                    "1 teaspoon dried thyme",
-                    "1 bay leaf",
                     "1/4 cup chopped fresh parsley"
                 ],
-                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Add the cheddar cheese to the sauce and stir until melted and smooth. Remove from heat and stir in the parmesan cheese. \n5. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
+                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
                 "rating":4.0
             },
-            {
+            {   "id":"3",
                 "recipe_name": "Homemade Macaroni and Cheese",
+                "recipe_image":"https://i.ibb.co/N3Pd9gR/macaroni.jpg",
                 "ingredients": [
                     "1 lb elbow macaroni",
                     "4 tbsp unsalted butter",
@@ -112,7 +100,7 @@
                     "2 cups whole milk",
                     "2 cups shredded cheddar cheese"
                 ],
-                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Add red wine and bring to a boil. \n9. Add beef broth, tomato paste, thyme, and bay leaf and bring to a simmer. \n10. Return beef to Dutch oven and bring to a boil. \n11. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
+                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
                 "rating":4.0
             }
         ]
@@ -126,24 +114,23 @@
         "likes": 250,
         "biography": "Alice Smith is a classically trained chef who has worked in some of the world's finest restaurants. She is known for her elegant and innovative approach to French cuisine.",
         "recipes": [
-            {
+            {   "id":"1",
                 "recipe_name": "Seared Scallops with Citrus Beurre Blanc",
+                "recipe_image":"https://i.ibb.co/cgr6SPB/pepperoni.jpg",
                 "ingredients": [
                     "6 large scallops",
                     "1/4 cup flour",
                     "2 tablespoons olive oil",
                     "2 tablespoons unsalted butter",
-                    "1/4 cup dry white wine",
-                    "1/4 cup fresh orange juice",
-                    "1 tablespoon honey",
                     "2 tablespoons cold unsalted butter",
                     "1 teaspoon chopped fresh parsley"
                 ],
-                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Add white wine, orange juice, and honey to skillet and bring to a boil. \n7. Cook until liquid is reduced by half, about 3-4 minutes. \n8. Remove skillet from heat and whisk in 2 tablespoons cold butter. \n9. Season sauce with salt and pepper to taste. \n10. Arrange scallops on plates and spoon sauce over. \n11. Garnish with chopped parsley and serve immediately.",
+                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Arrange scallops on plates and spoon sauce over. \n7. Garnish with chopped parsley and serve immediately.",
                 "rating": 4.5
             },
-            {
+            {   "id":"2",
                 "recipe_name": "Beef Bourguignon",
+                "recipe_image":"https://i.ibb.co/8DDFb7y/beef.jpg",
                 "ingredients": [
                     "2 pounds beef chuck, cut into 1 1/2-inch pieces",
                     "1/4 cup all-purpose flour",
@@ -151,19 +138,14 @@
                     "6 slices bacon, chopped",
                     "1 large onion, chopped",
                     "2 medium carrots, chopped",
-                    "2 cloves garlic, minced",
-                    "1 cup red wine",
-                    "2 cups beef broth",
-                    "2 tablespoons tomato paste",
-                    "1 teaspoon dried thyme",
-                    "1 bay leaf",
                     "1/4 cup chopped fresh parsley"
                 ],
-                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Add the cheddar cheese to the sauce and stir until melted and smooth. Remove from heat and stir in the parmesan cheese. \n5. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
+                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
                 "rating":4.0
             },
-            {
+            {   "id":"3",
                 "recipe_name": "Homemade Macaroni and Cheese",
+                "recipe_image":"https://i.ibb.co/N3Pd9gR/macaroni.jpg",
                 "ingredients": [
                     "1 lb elbow macaroni",
                     "4 tbsp unsalted butter",
@@ -171,7 +153,7 @@
                     "2 cups whole milk",
                     "2 cups shredded cheddar cheese"
                 ],
-                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Add red wine and bring to a boil. \n9. Add beef broth, tomato paste, thyme, and bay leaf and bring to a simmer. \n10. Return beef to Dutch oven and bring to a boil. \n11. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
+                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
                 "rating":4.0
             }
         ]
@@ -185,24 +167,23 @@
         "likes": 2000,
         "biography": "Alice Smith is a classically trained chef who has worked in some of the world's finest restaurants. She is known for her elegant and innovative approach to French cuisine.",
         "recipes": [
-            {
+            {   "id":"1",
                 "recipe_name": "Seared Scallops with Citrus Beurre Blanc",
+                "recipe_image":"https://i.ibb.co/cgr6SPB/pepperoni.jpg",
                 "ingredients": [
                     "6 large scallops",
                     "1/4 cup flour",
                     "2 tablespoons olive oil",
                     "2 tablespoons unsalted butter",
-                    "1/4 cup dry white wine",
-                    "1/4 cup fresh orange juice",
-                    "1 tablespoon honey",
                     "2 tablespoons cold unsalted butter",
                     "1 teaspoon chopped fresh parsley"
                 ],
-                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Add white wine, orange juice, and honey to skillet and bring to a boil. \n7. Cook until liquid is reduced by half, about 3-4 minutes. \n8. Remove skillet from heat and whisk in 2 tablespoons cold butter. \n9. Season sauce with salt and pepper to taste. \n10. Arrange scallops on plates and spoon sauce over. \n11. Garnish with chopped parsley and serve immediately.",
+                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Arrange scallops on plates and spoon sauce over. \n7. Garnish with chopped parsley and serve immediately.",
                 "rating": 4.5
             },
-            {
+            {   "id":"2",
                 "recipe_name": "Beef Bourguignon",
+                "recipe_image":"https://i.ibb.co/8DDFb7y/beef.jpg",
                 "ingredients": [
                     "2 pounds beef chuck, cut into 1 1/2-inch pieces",
                     "1/4 cup all-purpose flour",
@@ -210,19 +191,14 @@
                     "6 slices bacon, chopped",
                     "1 large onion, chopped",
                     "2 medium carrots, chopped",
-                    "2 cloves garlic, minced",
-                    "1 cup red wine",
-                    "2 cups beef broth",
-                    "2 tablespoons tomato paste",
-                    "1 teaspoon dried thyme",
-                    "1 bay leaf",
                     "1/4 cup chopped fresh parsley"
                 ],
-                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Add the cheddar cheese to the sauce and stir until melted and smooth. Remove from heat and stir in the parmesan cheese. \n5. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
+                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
                 "rating":4.0
             },
-            {
+            {   "id":"3",
                 "recipe_name": "Homemade Macaroni and Cheese",
+                "recipe_image":"https://i.ibb.co/N3Pd9gR/macaroni.jpg",
                 "ingredients": [
                     "1 lb elbow macaroni",
                     "4 tbsp unsalted butter",
@@ -230,7 +206,7 @@
                     "2 cups whole milk",
                     "2 cups shredded cheddar cheese"
                 ],
-                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Add red wine and bring to a boil. \n9. Add beef broth, tomato paste, thyme, and bay leaf and bring to a simmer. \n10. Return beef to Dutch oven and bring to a boil. \n11. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
+                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
                 "rating":4.0
             }
         ]
@@ -244,24 +220,23 @@
         "likes": 50,
         "biography": "Alice Smith is a classically trained chef who has worked in some of the world's finest restaurants. She is known for her elegant and innovative approach to French cuisine.",
         "recipes": [
-            {
+            {   "id":"1",
                 "recipe_name": "Seared Scallops with Citrus Beurre Blanc",
+                "recipe_image":"https://i.ibb.co/cgr6SPB/pepperoni.jpg",
                 "ingredients": [
                     "6 large scallops",
                     "1/4 cup flour",
                     "2 tablespoons olive oil",
                     "2 tablespoons unsalted butter",
-                    "1/4 cup dry white wine",
-                    "1/4 cup fresh orange juice",
-                    "1 tablespoon honey",
                     "2 tablespoons cold unsalted butter",
                     "1 teaspoon chopped fresh parsley"
                 ],
-                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Add white wine, orange juice, and honey to skillet and bring to a boil. \n7. Cook until liquid is reduced by half, about 3-4 minutes. \n8. Remove skillet from heat and whisk in 2 tablespoons cold butter. \n9. Season sauce with salt and pepper to taste. \n10. Arrange scallops on plates and spoon sauce over. \n11. Garnish with chopped parsley and serve immediately.",
+                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Arrange scallops on plates and spoon sauce over. \n7. Garnish with chopped parsley and serve immediately.",
                 "rating": 4.5
             },
-            {
+            {   "id":"2",
                 "recipe_name": "Beef Bourguignon",
+                "recipe_image":"https://i.ibb.co/8DDFb7y/beef.jpg",
                 "ingredients": [
                     "2 pounds beef chuck, cut into 1 1/2-inch pieces",
                     "1/4 cup all-purpose flour",
@@ -269,19 +244,14 @@
                     "6 slices bacon, chopped",
                     "1 large onion, chopped",
                     "2 medium carrots, chopped",
-                    "2 cloves garlic, minced",
-                    "1 cup red wine",
-                    "2 cups beef broth",
-                    "2 tablespoons tomato paste",
-                    "1 teaspoon dried thyme",
-                    "1 bay leaf",
                     "1/4 cup chopped fresh parsley"
                 ],
-                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Add the cheddar cheese to the sauce and stir until melted and smooth. Remove from heat and stir in the parmesan cheese. \n5. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
+                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
                 "rating":4.0
             },
-            {
+            {   "id":"3",
                 "recipe_name": "Homemade Macaroni and Cheese",
+                "recipe_image":"https://i.ibb.co/N3Pd9gR/macaroni.jpg",
                 "ingredients": [
                     "1 lb elbow macaroni",
                     "4 tbsp unsalted butter",
@@ -289,7 +259,7 @@
                     "2 cups whole milk",
                     "2 cups shredded cheddar cheese"
                 ],
-                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Add red wine and bring to a boil. \n9. Add beef broth, tomato paste, thyme, and bay leaf and bring to a simmer. \n10. Return beef to Dutch oven and bring to a boil. \n11. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
+                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
                 "rating":4.0
             }
         ]
@@ -303,24 +273,23 @@
         "likes": 3000,
         "biography": "Alice Smith is a classically trained chef who has worked in some of the world's finest restaurants. She is known for her elegant and innovative approach to French cuisine.",
         "recipes": [
-            {
+            {   "id":"1",
                 "recipe_name": "Seared Scallops with Citrus Beurre Blanc",
+                "recipe_image":"https://i.ibb.co/cgr6SPB/pepperoni.jpg",
                 "ingredients": [
                     "6 large scallops",
                     "1/4 cup flour",
                     "2 tablespoons olive oil",
                     "2 tablespoons unsalted butter",
-                    "1/4 cup dry white wine",
-                    "1/4 cup fresh orange juice",
-                    "1 tablespoon honey",
                     "2 tablespoons cold unsalted butter",
                     "1 teaspoon chopped fresh parsley"
                 ],
-                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Add white wine, orange juice, and honey to skillet and bring to a boil. \n7. Cook until liquid is reduced by half, about 3-4 minutes. \n8. Remove skillet from heat and whisk in 2 tablespoons cold butter. \n9. Season sauce with salt and pepper to taste. \n10. Arrange scallops on plates and spoon sauce over. \n11. Garnish with chopped parsley and serve immediately.",
+                "cooking_method": "1. Pat scallops dry with paper towels and season both sides with salt and pepper. \n2. Dredge scallops in flour, shaking off excess. \n3. Heat olive oil and 2 tablespoons butter in a large skillet over high heat until hot but not smoking. \n4. Add scallops and cook until golden brown and just cooked through, about 2 minutes per side. \n5. Remove scallops from skillet and set aside. \n6. Arrange scallops on plates and spoon sauce over. \n7. Garnish with chopped parsley and serve immediately.",
                 "rating": 4.5
             },
-            {
+            {   "id":"2",
                 "recipe_name": "Beef Bourguignon",
+                "recipe_image":"https://i.ibb.co/8DDFb7y/beef.jpg",
                 "ingredients": [
                     "2 pounds beef chuck, cut into 1 1/2-inch pieces",
                     "1/4 cup all-purpose flour",
@@ -328,19 +297,14 @@
                     "6 slices bacon, chopped",
                     "1 large onion, chopped",
                     "2 medium carrots, chopped",
-                    "2 cloves garlic, minced",
-                    "1 cup red wine",
-                    "2 cups beef broth",
-                    "2 tablespoons tomato paste",
-                    "1 teaspoon dried thyme",
-                    "1 bay leaf",
                     "1/4 cup chopped fresh parsley"
                 ],
-                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Add the cheddar cheese to the sauce and stir until melted and smooth. Remove from heat and stir in the parmesan cheese. \n5. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
+                "cooking_method": "1. Preheat the oven to 350°F (180°C) and bring a large pot of salted water to a boil. Add the macaroni and cook for 8-10 minutes, or until al dente. \n2. While the macaroni is cooking, melt the butter in a medium saucepan over medium heat. Add the flour and whisk constantly for 2-3 minutes, until the mixture is smooth and golden brown. \n3. Slowly add the milk to the flour mixture, whisking constantly to prevent lumps. Cook for 5-7 minutes, or until the sauce has thickened. \n4. Drain the cooked macaroni and add it to the cheese sauce. Stir until well coated.",
                 "rating":4.0
             },
-            {
+            {   "id":"3",
                 "recipe_name": "Homemade Macaroni and Cheese",
+                "recipe_image":"https://i.ibb.co/N3Pd9gR/macaroni.jpg",
                 "ingredients": [
                     "1 lb elbow macaroni",
                     "4 tbsp unsalted butter",
@@ -348,7 +312,7 @@
                     "2 cups whole milk",
                     "2 cups shredded cheddar cheese"
                 ],
-                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Add red wine and bring to a boil. \n9. Add beef broth, tomato paste, thyme, and bay leaf and bring to a simmer. \n10. Return beef to Dutch oven and bring to a boil. \n11. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
+                "cooking_method": "1. Preheat oven to 325°F. \n2. Season beef with salt and pepper and coat with flour. \n3. Heat oil in a large Dutch oven over medium-high heat. \n4. Add beef in batches and cook until browned on all sides. \n5. Remove beef from Dutch oven and set aside. \n6. Add bacon to Dutch oven and cook until crisp. \n7. Add onion, carrots, and garlic and cook until softened. \n8. Cover Dutch oven and transfer to oven. \n12. Cook until beef is tender, about 2-3 hours",
                 "rating":4.0
             }
         ]
